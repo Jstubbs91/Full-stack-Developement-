@@ -1,0 +1,41 @@
+h1 {
+        background-image: url(/Resorces/Images/pattern.jpeg);
+        text-align: center;
+        font-size: 100px;
+        color: Khaki;
+    }
+
+
+
+.Brushes{
+    font-family: helvetica;
+    font-size: 32px; 
+    font-weight: bold;
+    color: white;
+    text-align: left;
+    background-color:mediumspringgreen;
+    
+}
+.Frames{
+    font-family: helvetica;
+    font-size: 32px; 
+    font-weight: bold;
+    color: white;
+    text-align: left;
+    background-color:lightcoral;
+}
+.Paint{
+    font-family: helvetica;
+    font-size: 32px; 
+    font-weight: bold;
+    color: white;
+    text-align: left;
+    background-color:skyblue;
+
+   
+}
+.Price{
+color: blue;
+font-weight: bold;
+
+} 
